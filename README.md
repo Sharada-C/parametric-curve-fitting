@@ -124,7 +124,8 @@ The final parametric curve was also plotted in Desmos using the estimated parame
 
 Desmos graph:
 
-[Add the shared Desmos link here]
+https://www.desmos.com/calculator/pif124ipca
+
 10. Conclusion
 
 The unknown parameters of the given parametric curve were estimated using a coordinate transformation followed by numerical optimization.
